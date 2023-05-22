@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\bin\Debug\net7.0\EncapsulateAmerica.exe
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\bin\Debug\net7.0\EncapsulateAmerica.deps.json
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\bin\Debug\net7.0\EncapsulateAmerica.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\bin\Debug\net7.0\EncapsulateAmerica.dll
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\bin\Debug\net7.0\EncapsulateAmerica.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\obj\Debug\net7.0\EncapsulateAmerica.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\obj\Debug\net7.0\EncapsulateAmerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\obj\Debug\net7.0\EncapsulateAmerica.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\obj\Debug\net7.0\EncapsulateAmerica.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\obj\Debug\net7.0\EncapsulateAmerica.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\obj\Debug\net7.0\EncapsulateAmerica.dll
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\obj\Debug\net7.0\refint\EncapsulateAmerica.dll
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\obj\Debug\net7.0\EncapsulateAmerica.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\obj\Debug\net7.0\EncapsulateAmerica.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\repos2\EncapsulateAmerica\EncapsulateAmerica\obj\Debug\net7.0\ref\EncapsulateAmerica.dll
